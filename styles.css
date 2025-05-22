@@ -295,23 +295,4 @@ img {
     font-size: 1rem;
     padding: 0.7rem 1.1rem;
   }
-  .site-logo {
-  height: 38px;
-  width: auto;
-  display: inline-block;
-  vertical-align: middle;
-  margin-right: 0.65rem;
-  border-radius: 6px;
-  box-shadow: 0 1px 5px rgba(35,86,168,0.10);
-  background: white; /* optional, if your logo is not square or has transparency */
-  max-width: 44px;
-}
-
-@media (max-width: 480px) {
-  .site-logo {
-    height: 28px;
-    max-width: 34px;
-    margin-right: 0.3rem;
-  }
-}
 }
