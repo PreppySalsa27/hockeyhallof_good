@@ -42,7 +42,7 @@ const INDUCTEES = [
     points: 95,
     pims: 740,
     blurb: "This is a complete test of adding players.",
-    inductionYear: 2025/05/22,
+    inductionYear: 2026,
     img: "Logo.png"
   },
   // Add more inductees here!
