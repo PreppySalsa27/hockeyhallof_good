@@ -30,21 +30,7 @@ const INDUCTEES = [
     inductionYear: 2024,
     img: "https://www.hockeydb.com/ihdb/photos/steve-smith-1994-95-1.jpg"
   },
-  {
-    id: "TEST_TEST",
-    name: "Test Testerson",
-    position: "G",
-    seasons: "2008-2024",
-    teams: ["CGY", "EDM", "VAN", "OTT", "TOR"],
-    games: 670,
-    goals: 42,
-    assists: 53,
-    points: 95,
-    pims: 740,
-    blurb: "This is a complete test of adding players.",
-    inductionYear: 2026,
-    img: "Logo.png"
-  },
+  
   // Add more inductees here!
 ];
 
