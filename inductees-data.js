@@ -27,7 +27,7 @@ const INDUCTEES = [
     points: 525,
     pims: 1094,
     blurb: "Dustin Byfuglien, affectionately known as “Big Buff,” has been honored with induction into the Hockey Hall of Good. A versatile force on the ice, Byfuglien showcased his prowess both as a defenseman and forward throughout his 14-season NHL career. Drafted 245th overall by the Chicago Blackhawks in 2003, he defied expectations, amassing 177 goals and 348 assists over 869 games. Byfuglien played pivotal roles with the Chicago Blackhawks, Atlanta Thrashers, and Winnipeg Jets. Notably, he was instrumental in the Blackhawks’ 2010 Stanley Cup victory, becoming the first Black American-born player to achieve this feat . His dynamic play and leadership left an indelible mark on the sport, earning him a well-deserved place in the Hockey Hall of Good.",
-    inductionYear: 2024,
+    inductionYear: 2025,
     img: "https://www.hockeydb.com/ihdb/photos/steve-smith-1994-95-1.jpg"
   },
   
